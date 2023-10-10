@@ -5,6 +5,7 @@ class Test extends Component{
         return(
             <div>
                 <p>testing new azure react app</p>
+                <p>october 2023</p>
             </div>
         )
     }
