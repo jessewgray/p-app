@@ -26,7 +26,8 @@ function DisplayInfo(){
                     })
                 })
                     .catch(error => console.error(error));    
-           }()
+           }
+           getData()
 
             
             const waitList = () => {

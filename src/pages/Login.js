@@ -38,7 +38,7 @@ class Login extends Component{
               return response.json();
           }).then((data) => {
             console.log(data);
-            if (data.loggedin == true){
+            if (data.loggedin === true){
                 
                 //console.log(data.username)
                 let user = data.username;

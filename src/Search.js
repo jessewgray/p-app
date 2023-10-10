@@ -1,5 +1,6 @@
 
 import { useState, useEffect } from 'react';
+import React, { Component }  from 'react';
 
 export default function Search(){
 

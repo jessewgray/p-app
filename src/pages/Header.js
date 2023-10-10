@@ -1,6 +1,8 @@
 
 import Button from '@mui/material/Button'
 
+import React, { Component }  from 'react';
+
 export default function Header(){
 
         const letsLogin = function(){
