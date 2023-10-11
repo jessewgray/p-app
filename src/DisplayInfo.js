@@ -55,6 +55,7 @@ function DisplayInfo(){
                 return () => clearTimeout(timer);
               }, []);
               
+              console.log('oct 11')
         
         return(
             <div className='container'>                
